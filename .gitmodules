@@ -1,0 +1,8 @@
+[submodule "ai4-prov-api"]
+	path = ai4-prov-api
+	url = https://github.com/ai4os/ai4-prov-api
+	branch = main
+[submodule "ai4-prov-viz"]
+	path = ai4-prov-viz
+	url = https://github.com/ai4os/ai4-prov-viz
+	branch = main
