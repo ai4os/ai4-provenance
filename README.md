@@ -4,6 +4,8 @@
 
 # AI4OS Provenance catalog
 
+[![Updated submodules](https://github.com/ai4os/ai4-provenance/actions/workflows/main.yml/badge.svg)](https://github.com/ai4os/ai4-provenance/actions/workflows/main.yml)
+
 This is a catalog for the different AI4OS provenance components:
 
 * [ai4-prov-api](https://github.com/ai4os/ai4-prov-api): Backend for the provenance component
